@@ -8,8 +8,6 @@
 
 Pod::Spec.new do |s|
 
-
-
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  These will help people to find your library, and whilst it
